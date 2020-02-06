@@ -1,6 +1,6 @@
 <!--<!DOCTYPE html>
 
-<html>
+<!--<html>
 <head>
 	<meta charset="utf-8">
 	<title>Quorra's Software Shack</title>
@@ -8,8 +8,8 @@
 td,th { border: 1px solid #ccc; }
 table { border: 1px solid black; }
 </style>
-</head>-->
-
+</head> -->
+	
 <body>
 <h1>Quorra's Software Shack</h1>
 <p>Welcome to Quorra's Software Shack, a sister web shop for Flynn's Retro Computers. We can fill your software needs, from programming languages and operating systems to applications and games.</p>
